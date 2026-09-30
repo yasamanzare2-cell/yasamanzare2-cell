@@ -1,4 +1,4 @@
-# Hi, I'm Yasaman 👋
+# Hi, I'm Yaz 👋
 
 I'm an aspiring Data Analyst with a First-Class degree in International Tourism Management.
 
