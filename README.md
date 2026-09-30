@@ -1,61 +1,33 @@
 # Hi, I'm Yasaman 👋
 
-## About Me
+I'm an aspiring Data Analyst with a First-Class degree in International Tourism Management.
 
-I am a Data Technician with a background in International Tourism Management and a passion for using data to identify patterns, solve problems and communicate meaningful insights.
+I'm currently developing my skills in **SQL, Excel, Tableau and Python**, building practical projects using real-world datasets.
 
-I have completed Data Technician training, developing practical experience in data analysis, data cleaning, data visualisation and data management.
+What I particularly enjoy about data analysis is **taking raw information, finding meaningful patterns and turning them into something that makes sense**. I enjoy exploring a dataset, asking questions about what the data is showing and using visualisations to communicate those findings clearly.
 
-This GitHub profile showcases projects demonstrating my technical and analytical skills.
+Although my academic background is in tourism, my previous experience across **administration, recruitment, hospitality and events** has helped me develop strong organisational, analytical and problem-solving skills.
 
-## Skills
+### 📊 What I'm currently working on
 
-🐍 Python & Pandas  
-📊 Power BI  
-📗 Excel  
-🗄️ SQL  
-📈 Tableau  
-🧹 Data Cleaning  
-🔎 Data Analysis  
-📊 Data Visualisation  
-☁️ Azure
+- Building data analysis projects using real-world datasets
+- Developing my SQL skills through business-focused analysis
+- Creating interactive Tableau dashboards
+- Exploring and cleaning datasets using Python and Excel
+- Building a portfolio to demonstrate my data analysis skills
 
-## My Projects
+### 🛠️ Tools & Skills
 
-My portfolio includes practical projects covering:
+**Data:** SQL | Excel | Python | Tableau  
+**SQL:** PostgreSQL | Supabase  
+**Python:** Pandas | Matplotlib  
+**Other:** Data Cleaning | Data Visualisation | Data Analysis
 
-- Python and Pandas
-- Exploratory Data Analysis (EDA)
-- Excel data analysis
-- SQL
-- Power BI dashboards
-- Tableau visualisations
-- Data cleaning and preparation
-- Data visualisation and reporting
+### 📁 Featured Projects
 
-## What I Do
-
-I enjoy working with data to turn raw information into clear, useful insights.
-
-My projects demonstrate my ability to:
-
-- Clean and prepare datasets
-- Explore and analyse data
-- Identify patterns and trends
-- Create meaningful visualisations
-- Communicate findings clearly
-- Approach problems analytically
-
-## Portfolio
-
-More projects will be added as I continue to develop my experience and apply my data skills to real-world datasets.
+🔹 **Travel Booking Cancellation & Customer Experience Analysis**
+SQL and Tableau analysis exploring cancellation behaviour, booking value, discounts and customer experience.
 
 
-## Currently Learning
-
-🎓 Data Technician training  
-🐍 Python & Pandas  
-🗄️ SQL  
-📊 Power BI & Tableau  
-☁️ Azure
+*More data analysis projects will be added as I continue developing my skills and expanding my portfolio.*
 
